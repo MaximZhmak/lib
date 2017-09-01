@@ -10,7 +10,8 @@ int main()
 		printf("%c ", ch);
 	}
 
-	
+	//feature1
+	std::cout<<"on feature1"<<std::endl;
 	
 	
 	return 0;
